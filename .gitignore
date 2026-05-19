@@ -1,0 +1,21 @@
+# Keil MDK-ARM Build Artifacts
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.htm
+*.dep
+*.lnp
+*uvguix.*
+MDK-ARM/embedded_project_new/
+DebugConfig/
+RTE/
+
+# Block the heavy vendor libraries completely
+Drivers/
+Middlewares/
+.DS_Store
+**/ .DS_Store
