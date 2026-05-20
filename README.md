@@ -215,4 +215,3 @@ All subsystems working on hardware:
 3. D. M. G. Preethichandra *et al.*, "Conducting Polymer Based Ammonia and
    H₂S Sensors for Detecting Food Spoilage," *Adv. Mater. Technol.*, 8:2200841,
    2022.
-
